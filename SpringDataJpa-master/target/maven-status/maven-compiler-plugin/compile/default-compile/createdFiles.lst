@@ -1,0 +1,14 @@
+com\springdatajpa\controller\WebCrawlerController.class
+com\springdatajpa\bo\PromoCodes.class
+com\springdatajpa\controller\UserController.class
+com\springdatajpa\bo\User.class
+com\springdatajpa\controller\PromoCodeController.class
+com\springdatajpa\bo\SearchRequest.class
+com\springdatajpa\controller\UserSearchDetailsController.class
+com\springdatajpa\repoistory\UserRepoistry.class
+com\springdatajpa\bo\UserSearchDetails.class
+com\springdatajpa\DataJpaExampleApplication.class
+com\springdatajpa\bo\SearchResponse.class
+com\springdatajpa\controller\WebCrawlerController$1.class
+com\springdatajpa\repoistory\UserSearchDetailsRepoistry.class
+com\springdatajpa\repoistory\PromoCodeRepoistry.class
